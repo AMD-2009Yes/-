@@ -1,0 +1,96 @@
+.background_header{
+    position: relative;
+    background: url(../images/backgrounds/blue_joint.png) center/cover no-repeat;
+    padding-top: 10vh;
+}
+.background_blue{
+    padding: 13px;
+    color: rgb(255, 255, 255);
+    align-self: center;
+    text-align: center;
+    background-color: #40D9A6;
+}
+.bg-section{
+    background: url(../images/backgrounds/lines.png) center/cover no-repeat;
+}
+.background_section{
+    padding-top: 25vh;
+    padding-bottom: 25vh;
+    display: flex;
+    justify-content: space-between;
+    background: url(../images/backgrounds/lines.png) center/cover no-repeat;
+}
+.woman_background{
+    background: url(../images/backgrounds/woman.png) center/cover no-repeat;
+}
+nav{
+    background: #0c402f4a;
+}
+.span-blue{
+    color: #40D9A6;
+}
+.ghost_block{
+    background: rgba(255, 255, 255, 0.3);
+    padding: 13px;
+    padding-right: 22vh;
+    margin: 20px;
+    color: rgb(255, 255, 255);
+}
+.text-blue{
+    padding: 13px;
+    align-self: center;
+    background-color: rgb(255, 255, 255);
+    color: #40D9A6;
+}
+.text-mega{
+    font-size: 130px;
+    padding-top: 10vh;
+    line-height: 0.8;
+    font-family: Onest;
+    color: rgb(255, 255, 255);
+}
+.text-super{
+    font-size: 50px;
+    text-align: center;
+    font-family: Onest;
+    padding-top: 15vh;
+    padding-bottom: 5vh;
+    letter-spacing: -1px;
+}
+.text-big{
+    font-size: 32px;
+    text-align: center;
+    font-family: Onest;
+}
+.text-url{
+   color: #40D9A6; 
+   text-decoration: underline;
+   line-height: 1px;
+   font-size: 24px;
+}
+.corner{
+    transform: rotate(15deg) scalex(1.1);
+    padding-top: 20vh;
+    margin: 5vh;
+    padding-bottom: 10vh;
+}
+.picture{
+    max-height: 500px;
+    padding: 3vh;
+    margin-right: 15vh;
+}
+.icon{
+    width: 90px;
+    height: 90px;
+}
+.window{
+    margin: 2vh;
+    padding-top: 10vh;
+    padding-bottom: 20vh;
+    align-self: center;
+    text-align: center;
+}
+summary{
+    list-style: none;
+    font-size: 15px;
+}
